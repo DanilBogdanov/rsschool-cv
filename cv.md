@@ -37,3 +37,7 @@ function dataReverse(data) {
   return result;
 }
 ```
+---
+## Languages
+* **Russian** (Native)
+* **English** (A2)
