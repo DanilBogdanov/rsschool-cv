@@ -19,3 +19,8 @@ Hello! I'm c# back-end developer. I love equipment, information technology and e
 * ASP.NET
 * SQL(EF)
 ---
+## Education
+* Eastern Economics - Law Humanitarian Academy
+    + **Specialty:** Applied Informatics (in Economics)
+    + 2006-2009
+---    
