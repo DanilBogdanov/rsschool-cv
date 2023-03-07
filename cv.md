@@ -24,3 +24,16 @@ Hello! I'm c# back-end developer. I love equipment, information technology and e
     + **Specialty:** Applied Informatics (in Economics)
     + 2006-2009
 ---    
+## Code Example
+**Codewars: Data Reverse.** _A stream of data is received and needs to be reversed. Each segment is 8 bits long, meaning the order of these segments needs to be reversed._
+```
+function dataReverse(data) {
+  const result = [];
+  
+  for (let i = 0; i < data.length; i += 8) {
+    result.unshift(...data.slice(i, i + 8))
+  }
+  
+  return result;
+}
+```
